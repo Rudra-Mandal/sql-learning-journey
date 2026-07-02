@@ -20,9 +20,9 @@ This exercise tests foundational SQL knowledge, including database creation, con
 ## Step 3: Querying & Filtering
 Write `SELECT` queries to retrieve:
 1. Products where the category is `IN` ('Phone', 'Laptop').
-2. Products where the price is `BETWEEN` 500 `AND` 1200.
+2. Products where the price is `BETWEEN` 5000 `AND` 12000.
 3. Products where the `discount_code` `IS NULL`.
-4. Products where the category is 'Phone' `AND` price `<` 800.
+4. Products where the category is 'Phone' `AND` price `<` 8000.
 
 ## Step 4: Modifying Data
 1. `UPDATE` the price by adding 50 to any product where `category` = 'Tablet'.
